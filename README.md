@@ -1,1 +1,3 @@
 # Open-Source-Scripts-Writing
+
+I have always been interested in the script creation of film, TV program, and animation. I believe that I am a very creative and imaginative person. Even though I do not have the time and ability to realize my ideas now, I want to record every bit of inspiration. Open source script writing is just for these ideas. It is open to the public, and I welcome all the opinions of "adding, deleting, modifying and checking" commits😊.
